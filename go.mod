@@ -1,4 +1,4 @@
-module github.com/llqgit/excelize
+module github.com/llqgit/excelize/v2
 
 go 1.15
 
