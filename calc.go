@@ -29,7 +29,7 @@ import (
 	"unicode"
 	"unsafe"
 
-	"github.com/xuri/efp"
+	"github.com/llqgit/efp"
 	"golang.org/x/text/language"
 	"golang.org/x/text/message"
 )
@@ -103,7 +103,7 @@ var (
 		"june":      6,
 		"july":      7,
 		"august":    8,
-		"septemper": 9,
+		"september": 9,
 		"october":   10,
 		"november":  11,
 		"december":  12,

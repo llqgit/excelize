@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/llqgit/efp"
 	"github.com/stretchr/testify/assert"
-	"github.com/xuri/efp"
 )
 
 func prepareCalcData(cellData [][]interface{}) *File {
